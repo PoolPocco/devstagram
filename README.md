@@ -1,5 +1,5 @@
 # Devstagram
-### Instalaciones
+## Instalaciones
 
 __Primer paso:__ _crear proyecto_
 ```
